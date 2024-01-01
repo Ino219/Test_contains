@@ -18,7 +18,6 @@ System::Void Testcontains::MyForm::MyForm_Load(System::Object ^ sender, System::
 	gr->DrawRectangle(pen, (Rectangle)rect2);
 	gr->DrawRectangle(pen, (Rectangle)rect3);
 	gr->DrawRectangle(pen, (Rectangle)rect4);
-
 	return System::Void();
 }
 
